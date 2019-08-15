@@ -8,7 +8,7 @@ locale: en
 author: Miralda Sanchez
 
 #Target date in UTC / GMT
-countdown: UTC / GMT
+  countdown: UTC / GMT
   theme: red
   year: 2019
   month: 9
