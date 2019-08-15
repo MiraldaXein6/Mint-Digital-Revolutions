@@ -19,14 +19,15 @@ countdown:
 # Site owner
   owner: Miralda Sanchez
   name: Mint Digital Revolutions
-  email:miralda.ixein6.go4dkill@gmail.com
-  twitter:@xein6
+  email: miralda.ixein6.go4dkill@gmail.com
+  twitter: @xein6
   facebook: Miralda Sanchez
   instagram: miraldaxein6
+  linkedln: Miralda Sanchez
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   
-    linkedln: Miralda Sanchez
-    caption:
+   
+    
 
 
 # Jekyll configuration
