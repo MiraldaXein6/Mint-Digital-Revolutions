@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
-description: "A Coming Soon Template"
+title: "Mint Digital Revolutions"
+description: "Coming Soon"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
@@ -10,22 +10,22 @@ author:
 #Target date in UTC / GMT
 countdown:
   theme: red
-  year: 2020
-  month: 1
-  day: 1
-  hour: 0
-  minute: 0
+  year: 2019
+  month: 9
+  day: 8
+  hour: 3
+  minute: 25
 
 # Site owner
-owner:
-  name:
-  email:
-  twitter:
-  google-plus:
-  instagramm:
+  owner: Miralda Sanchez
+  name: Mint Digital Revolutions
+  email:miralda.ixein6.go4dkill@gmail.com
+  twitter:@xein6
+  facebook: Miralda Sanchez
+  instagram: miraldaxein6
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
-  aboutlink:
-    url:
+  
+    linkedln: Miralda Sanchez
     caption:
 
 
